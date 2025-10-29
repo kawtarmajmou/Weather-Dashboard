@@ -33,3 +33,5 @@ A responsive weather dashboard that displays current weather conditions and 5-da
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/weather-dashboard.git
+<img width="959" height="557" alt="image" src="https://github.com/user-attachments/assets/ff1fc096-1494-4590-9656-29a98abcc49c" />
+
